@@ -1,0 +1,6 @@
+{
+  "name": "CycloneShield",
+  "description": "Intelligent Cyclone Tracking, Impact Prediction, Evacuation Planning & Disaster Relief Coordination Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
